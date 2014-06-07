@@ -1,7 +1,8 @@
 vim-scala-worksheet
 ===================
 
-Tiny Vim plugin that turns your file into interactive worksheet
+Tiny Vim plugin that turns your file into interactive worksheet:
+![demo](http://ic.pics.livejournal.com/sombr/15933715/7368/7368_600.png)
 
 Installation
 ============
