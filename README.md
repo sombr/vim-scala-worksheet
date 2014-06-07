@@ -6,6 +6,7 @@ Tiny Vim plugin that turns your file into interactive worksheet
 Installation
 ============
 This is just a first sketch of a plugin and it's not particularly pretty, but already quite handy.
+It *requires* though VIM compiled with *ruby* support.
 Just clone repository into your vim/bundle directory.
 
 Using
